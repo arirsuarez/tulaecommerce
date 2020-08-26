@@ -1,0 +1,23 @@
+@import './colors';
+
+.mainNav {
+    background-color: white;
+    vertical-align: middle;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.navIcon {
+    width: 55px;
+    height: 45px;
+    padding: 8px;
+}
+
+.navIconRight {
+    width: 55px;
+    height: 45px;
+    padding: 8px;
+    float: right;
+}

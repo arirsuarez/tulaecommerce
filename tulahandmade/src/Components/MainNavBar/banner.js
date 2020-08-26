@@ -1,5 +1,5 @@
 import React from 'react';
-import tulaBanner from '../Utils/img/banner.jpg';
+import tulaBanner from '../../Utils/img/banner.jpg';
 
 
 

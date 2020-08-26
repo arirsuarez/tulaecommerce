@@ -3,7 +3,7 @@ import { Nav } from 'react-bootstrap';
 import style from 'bootstrap/dist/css/bootstrap.css';
 import TulaBanner from './banner';
 import TulaLogo from './TulaLogo';
-import '../Utils/style/mainNavBar.scss';
+import '../../Utils/style/mainNavBar.scss';
 
 
 
@@ -25,7 +25,7 @@ class MainNavBar extends React.Component {
                 <Nav.Item>
                     <Nav.Link eventKey="disabled" disabled>
                         Disabled
-      </Nav.Link>
+                    </Nav.Link>
                 </Nav.Item>
             </Nav>
         </div>

@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from './Utils/img/tulalogo.png';
 import './App.scss';
-import MainNavBar from './MainNavBar/MainNavBar';
+import MainNavBar from './Components/MainNavBar/MainNavBar';
 import MainNav from './Components/Nav/MainNav';
 
 function App() {

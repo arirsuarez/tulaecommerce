@@ -1,6 +1,6 @@
 import React from 'react';
-import tulaLogo from '../Utils/img/tulalogo.png';
-import '../Utils/style/mainNavBar.scss'
+import tulaLogo from '../../Utils/img/tulalogo.png';
+import '../../Utils/style/mainNavBar.scss'
 
 
 
